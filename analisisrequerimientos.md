@@ -41,7 +41,7 @@ Y opcionalmente:
 * Buscar alumno. [ **4** ]
 
 ## Requistos No Funcionales y Prioridad.
-* Codificado en _[C++] (http://www.cplusplus.com)._ [ **1** ]
+* Codificado en ![C++](http://www.cplusplus.com). [ **1** ]
 * Fácil y sencillo de usar. [ **2** ]
 * Eficiente. [ **2** ]
 * Desarrollado para el Sistema Operativo: _Linux_. [ **2** ]
