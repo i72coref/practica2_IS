@@ -1,7 +1,7 @@
 # ANÁLISIS DE REQUISITOS.
 
 ### PRÁCTICA 2. INGENIERÍA DEL SOFTWARE. UCO.
-> ####Realizado por:
+> #### Realizado por:
 
 > * Francisco Javier Córdoba Rey
 
