@@ -8,4 +8,4 @@ Como usuario quiero realizar un BackUp de los datos
 # (REVERSO)
 
 * Quiero que aparezca una opción en el menú del sistema que me permita hacer un  BackUp de los datos.
-* Quiero que los datos se guarden en un fichero binario.
+* Quiero que los datos se guarden en un fichero.
