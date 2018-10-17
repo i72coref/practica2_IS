@@ -9,6 +9,10 @@ Como usuario quiero poder mostrar los alumnos de mi sistema.
 
 Al mostrar estos alumnos, quiero tener la opcion de:
 * Visualizarlos o bien por linea de comandos, o por fichero (HTML o markdown).
-* Mostrar todos los alumnos a la vez.
-* Mostrar un alumno al introducir su DNI o apellido.
-* Mostrar alumnos por grupo y diferenciar al líder de los demas miembros.
+* Que se muestren todos los alumnos a la vez.
+* Que se muestre un alumno al introducir su DNI o apellido.
+* Que se muestren alumnos por grupo y diferenciar al líder de los demas miembros.
+* Que se muestren alumnos ordenados por:
+ 1. Nombre y apellido alfabeticamente.
+ 2. Curso más alto (ascendente y descendente).
+ 3. DNI.
