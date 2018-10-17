@@ -1,10 +1,11 @@
 # (ANVERSO)
-**ID:** *pid* **nombrehu**
+**ID:** *007*  **Hacer_BackUp**
 
-**Prioridad:**
+El usuario podrá realizar un BackUp de los datos
+
+**Prioridad: 3**
 
 # (REVERSO)
 
-* 1
-* 2
-* 3
+* Dbe aparecer una opción en el menú del sistema que me permita hacer un  BackUp de los datos.
+* Se debe crear un fichero binario donde se guarden los datos
