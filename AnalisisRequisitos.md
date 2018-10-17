@@ -41,7 +41,7 @@ Y opcionalmente:
 * El sistema deberá buscar los alumnos y sus datos internamente para trabajar con ellos. [ **4** ]
 
 ## Requistos No Funcionales y Prioridad.
-* El Sistema será codificado en _[C++] (http://www.cplusplus.com)._ [ **1** ]
+* El Sistema será codificado en [C++](http://www.cplusplus.com). [ **1** ]
 * Nuestro sistema será fácil y sencillo de usar para el usuario. [ **2** ]
 * El sistema será eficiente. [ **2** ]
 * Nuestro sistema será desarrollado para ejecutarse en el Sistema Operativo: _Linux_. [ **2** ]
