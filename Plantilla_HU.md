@@ -1,9 +1,9 @@
-#(ANVERSO)
+# (ANVERSO)
 **ID:** *pid* **nombrehu**
 
 **Prioridad:**
 
-#(REVERSO)
+# (REVERSO)
 
 * 1
 * 2
