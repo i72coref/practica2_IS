@@ -13,6 +13,6 @@ Al mostrar estos alumnos, quiero tener la opcion de:
 * Que se muestre un alumno al introducir su DNI o apellido.
 * Que se muestren alumnos por grupo y diferenciar al líder de los demas miembros.
 * Que se muestren alumnos ordenados por:
- 1. Nombre y apellido alfabeticamente.
- 2. Curso más alto (ascendente y descendente).
- 3. DNI.
+  - Nombre y apellido alfabeticamente.
+  - Curso más alto (ascendente y descendente).
+  - DNI.
