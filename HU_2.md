@@ -1,7 +1,7 @@
 # (ANVERSO)
-**ID:** *01* **Cargar_backup**
+**ID:** *02* **Cargar_backup**
 
-**Prioridad:** 2
+**Prioridad:** 3
 
 Como usuario quiero guardar un backup de los alumnos guardados en el software.
 
