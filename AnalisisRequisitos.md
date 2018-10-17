@@ -32,7 +32,7 @@ Y opcionalmente:
 
 ## Requisitos Funcionales y Prioridad
 * El sistema deberá mostrar la interfaz en el terminal para el usuario. [ **1** ]
-* El usuario podrá cargar la información del usuario _(cargar Backup)_. [ **3** ]
+* El usuario podrá cargar la información de los alumnos _(cargar Backup)_. [ **3** ]
 * El usuario podrá introducir datos de alumnos manualmente. [ **2** ]
 * Tendrá la opción de borrar alumno. [ **5** ]
 * Tendrá la opción de mostrar datos de alumno. [ **5** ]
