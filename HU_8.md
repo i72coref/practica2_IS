@@ -6,4 +6,4 @@ Como usuario quiero que los datos de los alumnos se carguen para poder trabajar 
 **Prioridad:** 4
 
 # (REVERSO)
-Quiero que el programa busque y cargue los datos guardados previamente en un fichero binario.
+Quiero que el programa busque y cargue los datos guardados previamente en un fichero.
