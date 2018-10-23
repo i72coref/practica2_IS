@@ -1,9 +1,9 @@
 # (ANVERSO)
-**ID:** *007*  **Hacer_BackUp**
+**ID:** *07*  **Hacer_BackUp**
 
-Como usuario quiero realizar un BackUp de los datos
+Como usuario quiero realizar un BackUp de los datos.
 
-**Prioridad: 3**
+**Prioridad:** 3
 
 # (REVERSO)
 
