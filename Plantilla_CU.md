@@ -1,8 +1,6 @@
 # Nombre CU
 
-**ID:** *pid* **nombrehu**
-
-**Prioridad:**
+**ID:** *pid*
 
 **Breve descripción:**
 
