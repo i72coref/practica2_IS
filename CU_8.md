@@ -30,3 +30,5 @@ El sistema busca los datos de un alumno o un grupo.
 **Flujos alternativos:**
 
 1.a Si no hay ningún dato cargado aparece mensaje de error indicando que no hay datos en el sistema.
+
+2.a En caso de no existir el dni/apellido introducido para buscar, se muestra que no existe nadie con esos datos y se retorna para volver a introducir uno de los dos datos.
