@@ -14,7 +14,7 @@ Para poder cargar un backup el usuario tiene que tener un backup con el formato 
 
 **Flujo principal:**
 
-1. El programa pide el nombre del backup. 
+1. El programa pide la ruta del backup, por defecto será la misma carpeta del software. 
 2. Se busca el fichero especificado.
 3. Se cargan los datos del fichero en memoria.
 
