@@ -17,7 +17,7 @@
 
  1. El caso de uso empieza cuando se accede en el menú a la opción: *Borrar_Alumno*.
  2. Después nos pedirá la opción de borrar por DNI o apellido al alumno.
- 3. Después debemos de introducir dicho DNI o Apellido por terminal.
+ 3. Debemos de introducir dicho DNI o Apellido por terminal.
 
 **Postcondiciones:**
 
@@ -25,4 +25,4 @@
 
 **Flujos alternativos:**
 
- 1. Si no existe el alumno o se ha introducido el DNI / Apellido de manera incorrecta el sistema dará error de borrado.
+ 3.a. Si no existe el alumno o se ha introducido el DNI / Apellido de manera incorrecta el sistema dará error de borrado.
