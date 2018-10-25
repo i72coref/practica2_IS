@@ -1,8 +1,8 @@
 # Borrar_Alumno
 
-**ID:** *05*
+**ID:** *04*
 
-**Breve descripción:** El usuario podrá mostrar uno o varios alumnos.
+**Breve descripción:** El usuario podrá borrar únicamente un solo alumno a la vez.
 
 **Actores principales:** Usuario (Profesor).
 
@@ -10,8 +10,7 @@
 
 **Precondiciones:**
 
- 1. El usuario / usuarios a mostrar ya tiene que estar añadidos al sistema.
- 2. Se debe pulsar la tecla indicada en el menú para acceder a *Borrar_Alumno*
+ 1. El alumno a borrar ya tiene que estar añadido al sistema.
 
 **Flujo principal:**
 
@@ -22,6 +21,7 @@
 **Postcondiciones:**
 
  * Si existen dos alumnos con el mismo apellido, solo se podrá borrar por DNI.
+ * Una vez borremos un alumno, se mostrará por terminal: *Alumno borrado correctamente*.
 
 **Flujos alternativos:**
 
