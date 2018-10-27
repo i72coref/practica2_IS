@@ -1,5 +1,5 @@
 # (ANVERSO)
-**ID:*09* **  **Administración de lideres**
+**ID:*09* **  **Administración de líderes**
 
 Como usuario quiero que se gestione correctamente el líder de cada grupo.
 
