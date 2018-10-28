@@ -1,5 +1,5 @@
 # (ANVERSO)
-<<<<<<< HEAD
+
 **ID:*09* **  **Administración de líderes**
 =======
 **ID:** *09*  **Administración de lideres**
