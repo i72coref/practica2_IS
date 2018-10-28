@@ -38,6 +38,7 @@ Y opcionalmente:
 * Tendrá la opción de mostrar datos de alumno. [ **5** ]
 * Al usuario le será posible posteriormente, modificar datos de alumno en el sistema. [ **5** ]
 * El usuario podrá hacer un _BackUp_ de los datos del sistema. [ **3** ]
+* El usuario podrá gestionar directamente a los líderes de cada equipo [ **5** ]
 * El sistema deberá buscar los alumnos y sus datos internamente para que el usuario trabaje con ellos. [ **4** ]
 
 ## Requistos No Funcionales y Prioridad.
